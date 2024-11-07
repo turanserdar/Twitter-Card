@@ -70,3 +70,6 @@ Email: turanserdar@outlook.com.tr
 
 ## Preview
 Below is a preview of the interface:
+![Tweeter_cardgif](https://github.com/user-attachments/assets/1300dbf0-fb4d-45dc-a475-09e3ad6f003a)
+
+
